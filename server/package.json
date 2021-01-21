@@ -3,7 +3,7 @@
     "express": "^4.16.1",
     "hashids": "^1.1.1",
     "open": "0.0.5",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.4.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
